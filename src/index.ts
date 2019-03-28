@@ -1,4 +1,4 @@
-import Vue, { PluginFunction, PluginObject } from 'vue';
+import Vue, { PluginFunction, PluginObject } from 'vue/dist/vue.js';
 
 import HighlightCode from './components/HighlightCode';
 import { registerLanguages } from './lib';

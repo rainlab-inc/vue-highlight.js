@@ -1,6 +1,6 @@
 /// <reference path='../src/sfc.d.ts' />
 
-import Vue from 'vue';
+import Vue from 'vue/dist/vue.js';
 import VueHighlightJS, { Options } from '../src';
 
 import '../lib/allLanguages';
